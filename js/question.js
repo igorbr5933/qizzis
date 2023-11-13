@@ -2,23 +2,23 @@
 let questions = [
   {
     numb: 1,
-    question: "quantos anos tem a cidade de toquio?",
-    answer: "566",
+    question: "Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?",
+    answer: "Marie Curiee",
     options: [
-      "5",
-      "200",
-      "344",
-      "566"
+      "Albert Einstein",
+      "Marie Curiee",
+      "Stephen Hawking",
+      "Linus Pauling"
     ]
   },
   {
     numb: 2,
-    question: "qual o desenho mais belo do mundo",
+    question: "Qual o país mais novo do mundo?",
     answer: "Sudão do Sul",
     options: [
       "Timor Lestet",
       "Montenegro",
-      "todos são belos",
+      "Sudão do Sul",
       "Kosovo"
     ]
   },
