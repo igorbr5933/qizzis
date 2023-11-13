@@ -13,12 +13,12 @@ let questions = [
   },
   {
     numb: 2,
-    question: "Qual o país mais novo do mundo?",
+    question: "qual o desenho mais belo do mundo",
     answer: "Sudão do Sul",
     options: [
       "Timor Lestet",
       "Montenegro",
-      "Sudão do Sul",
+      "todos são belos",
       "Kosovo"
     ]
   },
