@@ -2,13 +2,13 @@
 let questions = [
   {
     numb: 1,
-    question: "Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?",
-    answer: "Marie Curiee",
+    question: "quantos anos tem a cidade de toquio?",
+    answer: "566",
     options: [
-      "Albert Einstein",
-      "Marie Curiee",
-      "Stephen Hawking",
-      "Linus Pauling"
+      "5",
+      "200",
+      "344",
+      "566"
     ]
   },
   {
